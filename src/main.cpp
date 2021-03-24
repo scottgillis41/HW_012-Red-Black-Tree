@@ -466,15 +466,15 @@ public:
 
 int main() {
 	RBTree bst;
-	bst.insert(8);
-	bst.insert(18);
-	bst.insert(5);
-	bst.insert(15);
-	bst.insert(17);
-	bst.insert(25);
-	bst.insert(40);
-	bst.insert(80);
-	bst.deleteNode(25);
+	bst.insert(1);
+	bst.insert(11);
+	bst.insert(521312);
+	bst.insert(2);
+	bst.insert(1302134);
+	bst.insert(3);
+	bst.insert(402141);
+	bst.insert(81240);
+	bst.deleteNode(2);
 	bst.prettyPrint();
 	return 0;
 }

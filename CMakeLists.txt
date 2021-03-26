@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(HW_012 VERSION 0.3.0)
+project(HW_012 VERSION 0.3.1)
 
 set(PROJECT_SOURCE_DIR "src")
 set(DOXYGEN_OUPUT_DIR "doxygen")
